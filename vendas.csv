@@ -1,0 +1,101 @@
+id_pedido,data_pedido,cliente,cidade,estado,produto,categoria,quantidade,valor_unitario,forma_pagamento,status
+PED0001,15/04/2025,Carlos Oliveira,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0002,18/04/2025,Maria Souza,BLUMENAU,SC,Mouse Logitech,Informática,2,89.90,Pix,Entregue
+PED0003,22/04/2025,João Silva,São Paulo,SP,Monitor LG,Informática,1,1299.90,Cartão,Entregue
+PED0004,25/04/2025,Ana Costa,SAO PAULO,SP,Cadeira Escritório,Móveis,1,899.90,Boleto,Entregue
+PED0005,02/05/2025,Pedro Lima,Curitiba,PR,Teclado Mecânico,Informática,1,249.90,Pix,Entregue
+PED0006,05/05/2025,Mariana Alves,blumenau,SC,Smartphone Samsung,Eletrônicos,1,2199.90,Cartão,Entregue
+PED0007,09/05/2025,Carlos Oliveira,Blumenau,SC,Fone Bluetooth,Eletrônicos,2,199.90,Pix,Entregue
+PED0008,12/05/2025,,Curitiba,PR,Notebook Acer,Informática,1,3899.90,Cartão,Entregue
+PED0009,18/05/2025,Fernanda Lima,São Paulo,SP,Smart TV LG,Eletrônicos,1,2799.90,,Cancelado
+PED0010,20/05/2025,João Silva,SAO PAULO,SP,Mouse Logitech,Informática,3,89.90,Pix,ENTREGUE
+PED0011,25/05/2025,Ana Costa,Curitiba,PR,Mesa Escritório,Móveis,1,699.90,Boleto,Entregue
+PED0012,01/06/2025,Pedro Lima,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0013,05/06/2025,Mariana Alves,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1,2199.90,Pix,entregue
+PED0014,10/06/2025,Carlos Oliveira,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0015,15/06/2025,Fernanda Lima,São Paulo,SP,Smart TV LG,Eletrônicos,1,2799.90,Cartão,CANCELADO
+PED0016,18/06/2025,Lucas Pereira,Curitiba,PR,Cadeira Escritório,Móveis,2,899.90,Pix,Entregue
+PED0017,22/06/2025,Beatriz Souza,Blumenau,SC,,Informática,1,150.00,Pix,Entregue
+PED0018,25/06/2025,Rafael Santos,Curitiba,PR,Monitor LG,Informática,1,"1299.90",Cartão,Entregue
+PED0019,30/06/2025,Juliana Costa,São Paulo,SP,Fone Bluetooth,Eletrônicos,2,199.90,Pix,Entregue
+PED0020,02/07/2025,Carlos Oliveira,Blumenau,SC,Mouse Logitech,Informática,1,89.90,Cartão,Entregue
+PED0021,05/07/2025,Maria Souza,Blumenau,SC,Teclado Mecânico,Informática,2,249.90,Pix,Entregue
+PED0022,08/07/2025,João Silva,Curitiba,PR,Notebook Acer,Informática,1,3899.90,Boleto,Entregue
+PED0023,12/07/2025,Ana Costa,São Paulo,SP,Monitor LG,Informática,1,1299.90,Cartão,Entregue
+PED0024,15/07/2025,Pedro Lima,Blumenau,SC,Cadeira Escritório,Móveis,1,899.90,Pix,Entregue
+PED0025,20/07/2025,Mariana Alves,Curitiba,PR,Smartphone Samsung,Eletrônicos,1,2199.90,Cartão,Entregue
+PED0026,22/07/2025,Carlos Oliveira,BLUMENAU,SC,Fone Bluetooth,Eletrônicos,1,199.90,Pix,Entregue
+PED0027,25/07/2025,Fernanda Lima,São Paulo,SP,Smart TV LG,Eletrônicos,1,2799.90,Boleto,Entregue
+PED0028,28/07/2025,Lucas Pereira,Curitiba,PR,Mouse Logitech,Informática,4,89.90,Cartão,Entregue
+PED0029,01/08/2025,Beatriz Souza,blumenau,SC,Teclado Mecânico,Informática,1,249.90,Pix,Entregue
+PED0030,05/08/2025,Rafael Santos,São Paulo,SP,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0031,10/08/2025,Juliana Costa,Curitiba,PR,Monitor LG,Informática,1,1299.90,Pix,Entregue
+PED0032,15/08/2025,Carlos Oliveira,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0033,18/08/2025,Maria Souza,BLUMENAU,SC,Mouse Logitech,Informática,2,89.90,Pix,Entregue
+PED0034,22/08/2025,João Silva,São Paulo,SP,Cadeira Escritório,Móveis,1,899.90,Boleto,Entregue
+PED0035,25/08/2025,Ana Costa,Curitiba,PR,Smartphone Samsung,Eletrônicos,1,2199.90,Cartão,Entregue
+PED0036,30/08/2025,Pedro Lima,Blumenau,SC,Teclado Mecânico,Informática,2,249.90,Pix,Entregue
+PED0037,03/09/2025,Mariana Alves,São Paulo,SP,Smart TV LG,Eletrônicos,1,2799.90,Cartão,Entregue
+PED0038,07/09/2025,Fernanda Lima,Curitiba,PR,Notebook Acer,Informática,1,3899.90,Boleto,Entregue
+PED0039,12/09/2025,Lucas Pereira,BLUMENAU,SC,Fone Bluetooth,Eletrônicos,3,199.90,Pix,Entregue
+PED0040,15/09/2025,Beatriz Souza,São Paulo,SP,Monitor LG,Informática,1,1299.90,Cartão,Entregue
+PED0041,18/09/2025,Rafael Santos,Curitiba,PR,Cadeira Escritório,Móveis,1,899.90,Pix,Entregue
+PED0042,22/09/2025,Juliana Costa,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Boleto,Entregue
+PED0043,25/09/2025,Carlos Oliveira,SÃO PAULO,SP,Mouse Logitech,Informática,5,89.90,Cartão,Entregue
+PED0044,30/09/2025,Maria Souza,Curitiba,PR,Teclado Mecânico,Informática,1,249.90,Pix,Entregue
+PED0045,05/10/2025,João Silva,Blumenau,SC,Smartphone Samsung,Eletrônicos,1,2199.90,Cartão,Entregue
+PED0046,08/10/2025,Ana Costa,São Paulo,SP,Smart TV LG,Eletrônicos,1,2799.90,Boleto,Cancelado
+PED0047,12/10/2025,Pedro Lima,Curitiba,PR,Mouse Logitech,Informática,2,89.90,Pix,Entregue
+PED0048,15/10/2025,Mariana Alves,Blumenau,SC,Cadeira Escritório,Móveis,1,899.90,Cartão,Entregue
+PED0049,18/10/2025,Fernanda Lima,São Paulo,SP,Notebook Acer,Informática,1,3899.90,Pix,Entregue
+PED0050,22/10/2025,Lucas Pereira,Curitiba,PR,Monitor LG,Informática,1,1299.90,Boleto,Entregue
+PED0051,25/10/2025,Beatriz Souza,Blumenau,SC,Fone Bluetooth,Eletrônicos,2,199.90,Pix,Entregue
+PED0052,28/10/2025,Rafael Santos,São Paulo,SP,Teclado Mecânico,Informática,1,249.90,Cartão,Entregue
+PED0053,02/11/2025,Juliana Costa,Curitiba,PR,Notebook Lenovo,Informática,1,3499.90,Pix,Entregue
+PED0054,05/11/2025,Carlos Oliveira,Blumenau,SC,Smartphone Samsung,Eletrônicos,1,2199.90,Cartão,Entregue
+PED0055,10/11/2025,Maria Souza,Curitiba,PR,Cadeira Escritório,Móveis,1,899.90,Boleto,Entregue
+PED0056,15/11/2025,João Silva,São Paulo,SP,Monitor LG,Informática,2,1299.90,Pix,Entregue
+PED0057,18/11/2025,Ana Costa,BLUMENAU,SC,Mouse Logitech,Informática,3,89.90,Cartão,Entregue
+PED0058,22/11/2025,Pedro Lima,Curitiba,PR,Smart TV LG,Eletrônicos,1,2799.90,Pix,Entregue
+PED0059,25/11/2025,Mariana Alves,São Paulo,SP,Notebook Acer,Informática,1,3899.90,Boleto,Entregue
+PED0060,30/11/2025,Fernanda Lima,Blumenau,SC,Fone Bluetooth,Eletrônicos,2,199.90,Cartão,Entregue
+PED0061,03/12/2025,Lucas Pereira,Curitiba,PR,Teclado Mecânico,Informática,1,249.90,Pix,Entregue
+PED0062,05/12/2025,Beatriz Souza,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0063,08/12/2025,Rafael Santos,São Paulo,SP,Monitor LG,Informática,1,1299.90,Boleto,Entregue
+PED0064,10/12/2025,Juliana Costa,Curitiba,PR,Cadeira Escritório,Móveis,1,899.90,Pix,Entregue
+PED0065,12/12/2025,Carlos Oliveira,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1,2199.90,Cartão,Entregue
+PED0066,15/12/2025,Maria Souza,São Paulo,SP,Mouse Logitech,Informática,2,89.90,Pix,Entregue
+PED0067,18/12/2025,João Silva,Curitiba,PR,Notebook Acer,Informática,1,3899.90,Boleto,Entregue
+PED0068,20/12/2025,Ana Costa,Blumenau,SC,Smart TV LG,Eletrônicos,1,2799.90,Cartão,Entregue
+PED0069,22/12/2025,Pedro Lima,São Paulo,SP,Fone Bluetooth,Eletrônicos,3,199.90,Pix,Entregue
+PED0070,26/12/2025,Mariana Alves,Curitiba,PR,Monitor LG,Informática,1,1299.90,Cartão,Entregue
+PED0071,03/01/2026,Fernanda Lima,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Pix,Entregue
+PED0072,05/01/2026,Lucas Pereira,Curitiba,PR,Mouse Logitech,Informática,2,89.90,Cartão,Entregue
+PED0073,08/01/2026,,São Paulo,SP,Smart TV LG,Eletrônicos,1,2799.90,Boleto,Entregue
+PED0074,10/01/2026,Beatriz Souza,BLUMENAU,SC,Cadeira Escritório,Móveis,,899.90,Pix,Entregue
+PED0075,12/01/2026,Rafael Santos,Curitiba,PR,,Informática,1,249.90,Cartão,Entregue
+PED0076,15/01/2026,Juliana Costa,São Paulo,SP,Notebook Acer,Informática,1,"3899.90",Pix,ENTREGUE
+PED0077,18/01/2026,Carlos Oliveira,Blumenau,SC,Smartphone Samsung,Eletrônicos,1,"2199.90",Cartão,entregue
+PED0078,20/01/2026,Maria Souza,Curitiba,PR,Monitor LG,Informática,1,"1299.90",Boleto,CANCELADO
+PED0079,22/01/2026,João Silva,São Paulo,SP,Mouse Logitech,Informática,3,89.90,Pix,Entregue
+PED0080,25/01/2026,Ana Costa,Blumenau,SC,Teclado Mecânico,Informática,2,249.90,Cartão,Entregue
+PED0081,28/01/2026,Pedro Lima,Curitiba,PR,Cadeira Escritório,Móveis,1,899.90,Pix,Entregue
+PED0082,30/01/2026,Mariana Alves,São Paulo,SP,Notebook Lenovo,Informática,1,3499.90,Boleto,Entregue
+PED0083,02/02/2026,Fernanda Lima,Blumenau,SC,Mouse Logitech,Informática,4,89.90,Cartão,Entregue
+PED0084,05/02/2026,Lucas Pereira,Curitiba,PR,Smart TV LG,Eletrônicos,1,2799.90,Pix,Entregue
+PED0085,08/02/2026,Beatriz Souza,São Paulo,SP,Fone Bluetooth,Eletrônicos,2,199.90,Boleto,Entregue
+PED0086,10/02/2026,Rafael Santos,Blumenau,SC,Notebook Acer,Informática,1,3899.90,Cartão,Entregue
+PED0087,12/02/2026,Juliana Costa,Curitiba,PR,Monitor LG,Informática,1,1299.90,Pix,Entregue
+PED0088,15/02/2026,Carlos Oliveira,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0089,18/02/2026,Carlos Oliveira,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0090,20/02/2026,Maria Souza,São Paulo,SP,Smartphone Samsung,Eletrônicos,1,2199.90,Pix,Entregue
+PED0091,22/02/2026,João Silva,Curitiba,PR,Cadeira Escritório,Móveis,1,899.90,Boleto,Entregue
+PED0092,25/02/2026,Ana Costa,Blumenau,SC,Mouse Logitech,Informática,2,89.90,Cartão,Entregue
+PED0093,28/02/2026,Pedro Lima,São Paulo,SP,Monitor LG,Informática,1,1299.90,Pix,Entregue
+PED0094,03/03/2026,Mariana Alves,Curitiba,PR,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue
+PED0095,05/03/2026,Fernanda Lima,Blumenau,SC,Smart TV LG,Eletrônicos,1,2799.90,Pix,Entregue
+PED0096,08/03/2026,Lucas Pereira,São Paulo,SP,Fone Bluetooth,Eletrônicos,2,199.90,Boleto,Entregue
+PED0097,10/03/2026,Beatriz Souza,Curitiba,PR,Teclado Mecânico,Informática,1,249.90,Cartão,Entregue
+PED0098,12/03/2026,Rafael Santos,Blumenau,SC,Cadeira Escritório,Móveis,1,899.90,Pix,Entregue
+PED0099,15/03/2026,Juliana Costa,São Paulo,SP,Notebook Acer,Informática,1,3899.90,Cartão,Entregue
+PED0100,18/03/2026,Carlos Oliveira,Blumenau,SC,Notebook Lenovo,Informática,1,3499.90,Cartão,Entregue

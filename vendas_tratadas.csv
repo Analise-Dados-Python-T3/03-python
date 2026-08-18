@@ -1,0 +1,96 @@
+id_pedido,data_pedido,cliente,cidade,estado,produto,categoria,quantidade,valor_unitario,forma_pagamento,status,valor_total
+PED0001,2025-04-15,Carlos Oliveira,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0002,2025-04-18,Maria Souza,BLUMENAU,SC,Mouse Logitech,Informática,2.0,89.9,Pix,ENTREGUE,179.8
+PED0003,2025-04-22,João Silva,SÃO PAULO,SP,Monitor LG,Informática,1.0,1299.9,Cartão,ENTREGUE,1299.9
+PED0004,2025-04-25,Ana Costa,SÃO PAULO,SP,Cadeira Escritório,Móveis,1.0,899.9,Boleto,ENTREGUE,899.9
+PED0005,2025-05-02,Pedro Lima,CURITIBA,PR,Teclado Mecânico,Informática,1.0,249.9,Pix,ENTREGUE,249.9
+PED0006,2025-05-05,Mariana Alves,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1.0,2199.9,Cartão,ENTREGUE,2199.9
+PED0007,2025-05-09,Carlos Oliveira,BLUMENAU,SC,Fone Bluetooth,Eletrônicos,2.0,199.9,Pix,ENTREGUE,399.8
+PED0008,2025-05-12,Cliente Não Identificado,CURITIBA,PR,Notebook Acer,Informática,1.0,3899.9,Cartão,ENTREGUE,3899.9
+PED0010,2025-05-20,João Silva,SÃO PAULO,SP,Mouse Logitech,Informática,3.0,89.9,Pix,ENTREGUE,269.7
+PED0011,2025-05-25,Ana Costa,CURITIBA,PR,Mesa Escritório,Móveis,1.0,699.9,Boleto,ENTREGUE,699.9
+PED0012,2025-06-01,Pedro Lima,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0013,2025-06-05,Mariana Alves,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1.0,2199.9,Pix,ENTREGUE,2199.9
+PED0014,2025-06-10,Carlos Oliveira,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0016,2025-06-18,Lucas Pereira,CURITIBA,PR,Cadeira Escritório,Móveis,2.0,899.9,Pix,ENTREGUE,1799.8
+PED0017,2025-06-22,Beatriz Souza,BLUMENAU,SC,Produto Não Informado,Informática,1.0,150.0,Pix,ENTREGUE,150.0
+PED0018,2025-06-25,Rafael Santos,CURITIBA,PR,Monitor LG,Informática,1.0,1299.9,Cartão,ENTREGUE,1299.9
+PED0019,2025-06-30,Juliana Costa,SÃO PAULO,SP,Fone Bluetooth,Eletrônicos,2.0,199.9,Pix,ENTREGUE,399.8
+PED0020,2025-07-02,Carlos Oliveira,BLUMENAU,SC,Mouse Logitech,Informática,1.0,89.9,Cartão,ENTREGUE,89.9
+PED0021,2025-07-05,Maria Souza,BLUMENAU,SC,Teclado Mecânico,Informática,2.0,249.9,Pix,ENTREGUE,499.8
+PED0022,2025-07-08,João Silva,CURITIBA,PR,Notebook Acer,Informática,1.0,3899.9,Boleto,ENTREGUE,3899.9
+PED0023,2025-07-12,Ana Costa,SÃO PAULO,SP,Monitor LG,Informática,1.0,1299.9,Cartão,ENTREGUE,1299.9
+PED0024,2025-07-15,Pedro Lima,BLUMENAU,SC,Cadeira Escritório,Móveis,1.0,899.9,Pix,ENTREGUE,899.9
+PED0025,2025-07-20,Mariana Alves,CURITIBA,PR,Smartphone Samsung,Eletrônicos,1.0,2199.9,Cartão,ENTREGUE,2199.9
+PED0026,2025-07-22,Carlos Oliveira,BLUMENAU,SC,Fone Bluetooth,Eletrônicos,1.0,199.9,Pix,ENTREGUE,199.9
+PED0027,2025-07-25,Fernanda Lima,SÃO PAULO,SP,Smart TV LG,Eletrônicos,1.0,2799.9,Boleto,ENTREGUE,2799.9
+PED0028,2025-07-28,Lucas Pereira,CURITIBA,PR,Mouse Logitech,Informática,4.0,89.9,Cartão,ENTREGUE,359.6
+PED0029,2025-08-01,Beatriz Souza,BLUMENAU,SC,Teclado Mecânico,Informática,1.0,249.9,Pix,ENTREGUE,249.9
+PED0030,2025-08-05,Rafael Santos,SÃO PAULO,SP,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0031,2025-08-10,Juliana Costa,CURITIBA,PR,Monitor LG,Informática,1.0,1299.9,Pix,ENTREGUE,1299.9
+PED0032,2025-08-15,Carlos Oliveira,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0033,2025-08-18,Maria Souza,BLUMENAU,SC,Mouse Logitech,Informática,2.0,89.9,Pix,ENTREGUE,179.8
+PED0034,2025-08-22,João Silva,SÃO PAULO,SP,Cadeira Escritório,Móveis,1.0,899.9,Boleto,ENTREGUE,899.9
+PED0035,2025-08-25,Ana Costa,CURITIBA,PR,Smartphone Samsung,Eletrônicos,1.0,2199.9,Cartão,ENTREGUE,2199.9
+PED0036,2025-08-30,Pedro Lima,BLUMENAU,SC,Teclado Mecânico,Informática,2.0,249.9,Pix,ENTREGUE,499.8
+PED0037,2025-09-03,Mariana Alves,SÃO PAULO,SP,Smart TV LG,Eletrônicos,1.0,2799.9,Cartão,ENTREGUE,2799.9
+PED0038,2025-09-07,Fernanda Lima,CURITIBA,PR,Notebook Acer,Informática,1.0,3899.9,Boleto,ENTREGUE,3899.9
+PED0039,2025-09-12,Lucas Pereira,BLUMENAU,SC,Fone Bluetooth,Eletrônicos,3.0,199.9,Pix,ENTREGUE,599.7
+PED0040,2025-09-15,Beatriz Souza,SÃO PAULO,SP,Monitor LG,Informática,1.0,1299.9,Cartão,ENTREGUE,1299.9
+PED0041,2025-09-18,Rafael Santos,CURITIBA,PR,Cadeira Escritório,Móveis,1.0,899.9,Pix,ENTREGUE,899.9
+PED0042,2025-09-22,Juliana Costa,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Boleto,ENTREGUE,3499.9
+PED0043,2025-09-25,Carlos Oliveira,SÃO PAULO,SP,Mouse Logitech,Informática,5.0,89.9,Cartão,ENTREGUE,449.5
+PED0044,2025-09-30,Maria Souza,CURITIBA,PR,Teclado Mecânico,Informática,1.0,249.9,Pix,ENTREGUE,249.9
+PED0045,2025-10-05,João Silva,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1.0,2199.9,Cartão,ENTREGUE,2199.9
+PED0047,2025-10-12,Pedro Lima,CURITIBA,PR,Mouse Logitech,Informática,2.0,89.9,Pix,ENTREGUE,179.8
+PED0048,2025-10-15,Mariana Alves,BLUMENAU,SC,Cadeira Escritório,Móveis,1.0,899.9,Cartão,ENTREGUE,899.9
+PED0049,2025-10-18,Fernanda Lima,SÃO PAULO,SP,Notebook Acer,Informática,1.0,3899.9,Pix,ENTREGUE,3899.9
+PED0050,2025-10-22,Lucas Pereira,CURITIBA,PR,Monitor LG,Informática,1.0,1299.9,Boleto,ENTREGUE,1299.9
+PED0051,2025-10-25,Beatriz Souza,BLUMENAU,SC,Fone Bluetooth,Eletrônicos,2.0,199.9,Pix,ENTREGUE,399.8
+PED0052,2025-10-28,Rafael Santos,SÃO PAULO,SP,Teclado Mecânico,Informática,1.0,249.9,Cartão,ENTREGUE,249.9
+PED0053,2025-11-02,Juliana Costa,CURITIBA,PR,Notebook Lenovo,Informática,1.0,3499.9,Pix,ENTREGUE,3499.9
+PED0054,2025-11-05,Carlos Oliveira,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1.0,2199.9,Cartão,ENTREGUE,2199.9
+PED0055,2025-11-10,Maria Souza,CURITIBA,PR,Cadeira Escritório,Móveis,1.0,899.9,Boleto,ENTREGUE,899.9
+PED0056,2025-11-15,João Silva,SÃO PAULO,SP,Monitor LG,Informática,2.0,1299.9,Pix,ENTREGUE,2599.8
+PED0057,2025-11-18,Ana Costa,BLUMENAU,SC,Mouse Logitech,Informática,3.0,89.9,Cartão,ENTREGUE,269.7
+PED0058,2025-11-22,Pedro Lima,CURITIBA,PR,Smart TV LG,Eletrônicos,1.0,2799.9,Pix,ENTREGUE,2799.9
+PED0059,2025-11-25,Mariana Alves,SÃO PAULO,SP,Notebook Acer,Informática,1.0,3899.9,Boleto,ENTREGUE,3899.9
+PED0060,2025-11-30,Fernanda Lima,BLUMENAU,SC,Fone Bluetooth,Eletrônicos,2.0,199.9,Cartão,ENTREGUE,399.8
+PED0061,2025-12-03,Lucas Pereira,CURITIBA,PR,Teclado Mecânico,Informática,1.0,249.9,Pix,ENTREGUE,249.9
+PED0062,2025-12-05,Beatriz Souza,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0063,2025-12-08,Rafael Santos,SÃO PAULO,SP,Monitor LG,Informática,1.0,1299.9,Boleto,ENTREGUE,1299.9
+PED0064,2025-12-10,Juliana Costa,CURITIBA,PR,Cadeira Escritório,Móveis,1.0,899.9,Pix,ENTREGUE,899.9
+PED0065,2025-12-12,Carlos Oliveira,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1.0,2199.9,Cartão,ENTREGUE,2199.9
+PED0066,2025-12-15,Maria Souza,SÃO PAULO,SP,Mouse Logitech,Informática,2.0,89.9,Pix,ENTREGUE,179.8
+PED0067,2025-12-18,João Silva,CURITIBA,PR,Notebook Acer,Informática,1.0,3899.9,Boleto,ENTREGUE,3899.9
+PED0068,2025-12-20,Ana Costa,BLUMENAU,SC,Smart TV LG,Eletrônicos,1.0,2799.9,Cartão,ENTREGUE,2799.9
+PED0069,2025-12-22,Pedro Lima,SÃO PAULO,SP,Fone Bluetooth,Eletrônicos,3.0,199.9,Pix,ENTREGUE,599.7
+PED0070,2025-12-26,Mariana Alves,CURITIBA,PR,Monitor LG,Informática,1.0,1299.9,Cartão,ENTREGUE,1299.9
+PED0071,2026-01-03,Fernanda Lima,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Pix,ENTREGUE,3499.9
+PED0072,2026-01-05,Lucas Pereira,CURITIBA,PR,Mouse Logitech,Informática,2.0,89.9,Cartão,ENTREGUE,179.8
+PED0073,2026-01-08,Cliente Não Identificado,SÃO PAULO,SP,Smart TV LG,Eletrônicos,1.0,2799.9,Boleto,ENTREGUE,2799.9
+PED0075,2026-01-12,Rafael Santos,CURITIBA,PR,Produto Não Informado,Informática,1.0,249.9,Cartão,ENTREGUE,249.9
+PED0076,2026-01-15,Juliana Costa,SÃO PAULO,SP,Notebook Acer,Informática,1.0,3899.9,Pix,ENTREGUE,3899.9
+PED0077,2026-01-18,Carlos Oliveira,BLUMENAU,SC,Smartphone Samsung,Eletrônicos,1.0,2199.9,Cartão,ENTREGUE,2199.9
+PED0079,2026-01-22,João Silva,SÃO PAULO,SP,Mouse Logitech,Informática,3.0,89.9,Pix,ENTREGUE,269.7
+PED0080,2026-01-25,Ana Costa,BLUMENAU,SC,Teclado Mecânico,Informática,2.0,249.9,Cartão,ENTREGUE,499.8
+PED0081,2026-01-28,Pedro Lima,CURITIBA,PR,Cadeira Escritório,Móveis,1.0,899.9,Pix,ENTREGUE,899.9
+PED0082,2026-01-30,Mariana Alves,SÃO PAULO,SP,Notebook Lenovo,Informática,1.0,3499.9,Boleto,ENTREGUE,3499.9
+PED0083,2026-02-02,Fernanda Lima,BLUMENAU,SC,Mouse Logitech,Informática,4.0,89.9,Cartão,ENTREGUE,359.6
+PED0084,2026-02-05,Lucas Pereira,CURITIBA,PR,Smart TV LG,Eletrônicos,1.0,2799.9,Pix,ENTREGUE,2799.9
+PED0085,2026-02-08,Beatriz Souza,SÃO PAULO,SP,Fone Bluetooth,Eletrônicos,2.0,199.9,Boleto,ENTREGUE,399.8
+PED0086,2026-02-10,Rafael Santos,BLUMENAU,SC,Notebook Acer,Informática,1.0,3899.9,Cartão,ENTREGUE,3899.9
+PED0087,2026-02-12,Juliana Costa,CURITIBA,PR,Monitor LG,Informática,1.0,1299.9,Pix,ENTREGUE,1299.9
+PED0088,2026-02-15,Carlos Oliveira,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0089,2026-02-18,Carlos Oliveira,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0090,2026-02-20,Maria Souza,SÃO PAULO,SP,Smartphone Samsung,Eletrônicos,1.0,2199.9,Pix,ENTREGUE,2199.9
+PED0091,2026-02-22,João Silva,CURITIBA,PR,Cadeira Escritório,Móveis,1.0,899.9,Boleto,ENTREGUE,899.9
+PED0092,2026-02-25,Ana Costa,BLUMENAU,SC,Mouse Logitech,Informática,2.0,89.9,Cartão,ENTREGUE,179.8
+PED0093,2026-02-28,Pedro Lima,SÃO PAULO,SP,Monitor LG,Informática,1.0,1299.9,Pix,ENTREGUE,1299.9
+PED0094,2026-03-03,Mariana Alves,CURITIBA,PR,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
+PED0095,2026-03-05,Fernanda Lima,BLUMENAU,SC,Smart TV LG,Eletrônicos,1.0,2799.9,Pix,ENTREGUE,2799.9
+PED0096,2026-03-08,Lucas Pereira,SÃO PAULO,SP,Fone Bluetooth,Eletrônicos,2.0,199.9,Boleto,ENTREGUE,399.8
+PED0097,2026-03-10,Beatriz Souza,CURITIBA,PR,Teclado Mecânico,Informática,1.0,249.9,Cartão,ENTREGUE,249.9
+PED0098,2026-03-12,Rafael Santos,BLUMENAU,SC,Cadeira Escritório,Móveis,1.0,899.9,Pix,ENTREGUE,899.9
+PED0099,2026-03-15,Juliana Costa,SÃO PAULO,SP,Notebook Acer,Informática,1.0,3899.9,Cartão,ENTREGUE,3899.9
+PED0100,2026-03-18,Carlos Oliveira,BLUMENAU,SC,Notebook Lenovo,Informática,1.0,3499.9,Cartão,ENTREGUE,3499.9
